@@ -5,7 +5,7 @@ import ModuleNoPermission from '../errors/ModuleNoPermission';
 
 import Ritta from '@ritta/sdk/dist/ritta';
 import { RittaAuth } from '@ritta/sdk/dist/auth';
-import { Model, RittaDatabase } from '@ritta/sdk/dist/database';
+import { Document, Model, RittaDatabase } from '@ritta/sdk/dist/database';
 import { RittaRoles, Role, RolePermissions } from '@ritta/sdk/dist/roles';
 import { RittaModules } from '@ritta/sdk/dist/modules';
 import { Schema } from 'mongoose';
