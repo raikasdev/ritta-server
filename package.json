@@ -1,6 +1,6 @@
 {
   "name": "ritta",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Ritta is a modern system for school, to keep connections between home and school strong.",
   "main": "build/index.js",
   "type": "module",
@@ -35,6 +35,8 @@
   },
   "homepage": "https://github.com/rittaschool/ritta#readme",
   "dependencies": {
+    "@ritta/ritta-module-example": "^1.0.2",
+    "@ritta/sdk": "^1.0.20",
     "@shelf/jest-mongodb": "^1.2.5",
     "argon2": "^0.28.2",
     "cookie-parser": "^1.4.5",
