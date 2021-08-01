@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/rittaschool/ritta#readme",
   "dependencies": {
-    "@ritta/ritta-module-example": "^1.0.2",
+    "@ritta/ritta-module-example": "^1.0.8",
     "@ritta/sdk": "^1.0.20",
     "@shelf/jest-mongodb": "^1.2.5",
     "argon2": "^0.28.2",
